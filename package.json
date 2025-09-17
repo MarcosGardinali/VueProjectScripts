@@ -1,0 +1,13 @@
+{
+  "name": "vueprojectscripts",
+  "version": "1.0.0",
+  "type": "module",
+  "author": "Marcos",
+  "license": "ISC",
+  "bin": {
+    "vueprojectscripts": "./bin/cli.js"
+  },
+  "imports": {
+    "#src/*": "./src/*"
+  }
+}
