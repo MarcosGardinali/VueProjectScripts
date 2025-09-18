@@ -3,9 +3,14 @@
 Vue Project Scripts é uma biblioteca CLI desenvolvida para **auxiliar o desenvolvimento Front-End** Vue. Ela centraliza scripts que automatizam tarefas comuns, como criação de módulos, estrutura de pastas e arquivos de tradução.
 
 ---
+## Instalação
+Para instalar a biblioteca em modo de desenvolvimento execute o seguinte comando em seu projeto:
 
+```sh
+npm install --save-dev https://github.com/MarcosGardinali/VueProjectScripts
+```
 
-
+---
 ## Comandos disponíveis
 
 ### `create-module`
