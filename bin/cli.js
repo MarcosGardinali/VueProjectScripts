@@ -9,6 +9,7 @@ const command = args[0];
 switch (command) {
   case "create-module":
     createModule();
+    break;
   case "create-component":
     createComponent();
     break;
